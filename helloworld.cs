@@ -9,7 +9,7 @@ public class Program
 	
 	public static void Main()
 	{
-		Console.WriteLine("Hello World. I have made some changes. I am expecting to see another branch. ");
+		Console.WriteLine("Hello World. I have made some changes. I have made a second branch. ");
 		Console.WriteLine("" + echoMe("utty"));
 	}
 }
